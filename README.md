@@ -1,2 +1,5 @@
-# Cube-Collector-Project-2021
-Project Gamme on Fall 2021
+# Assignment06
+
+Tran Nguyen
+
+This is assignment06 with tutorial from Brackeys and modifications.
