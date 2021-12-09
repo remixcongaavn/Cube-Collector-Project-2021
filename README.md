@@ -1,5 +1,5 @@
-# Assignment06
+# Cube Collector Game project
 
 Tran Nguyen
 
-This is assignment06 with tutorial from Brackeys and modifications.
+Game Project 2021
